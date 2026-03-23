@@ -1,11 +1,18 @@
 # Olá, sou o Elias Oliveira de Freitas! 👋
 
-Atualmente sou estudante de **Análise e Desenvolvimento de Sistemas** e Técnico de Suporte com foco em infraestrutura e manutenção. Estou em transição para a área de **Desenvolvimento Backend** e **Quality Assurance (QA)**.
+Analista de Sistemas em Formação | Java & QA | +10 anos em Infraestrutura e Suporte Técnico 
 
-- 🔭 Atualmente trabalhando em projetos com **Python (FastAPI)** e **Java (Spring)**.
-- 🌱 Aprofundando conhecimentos em **Docker**, **PostgreSQL** e **Automação de Testes**.
-- 🎨 Interessado em **UX Design** e como a tecnologia impacta a experiência do usuário.
-- ⚡ Curiosidade: Nas horas vagas, gerencio a estratégia digital da @ns.decora_ e exploro mundos como Hogwarts Legacy e Simuladores como F1, American Truck e Euro Truck.
+Com uma trajetória sólida de mais de uma década em suporte técnico, infraestrutura e administração de sistemas Linux, hoje direciono minha carreira para o desenvolvimento Back-end e Quality Assurance (QA). Minha base em resolução de problemas complexos e suporte a aplicações web me permite construir soluções com foco em estabilidade e experiência do usuário.
+
+### 🚀 O que estou construindo:
+
+Desenvolvimento Back-end: Projetos práticos utilizando Java (Spring Boot) e Python (FastAPI).
+* Qualidade de Software: Aplicação de testes manuais, funcionais e estudos em automação para garantir a entrega de requisitos de negócio.
+* Infraestrutura Moderna: Aprofundando em Docker e gestão de bancos de dados PostgreSQL/MySQL.
+
+
+🕹️ Off-duty: Entusiasta de simuladores (F1, American/Euro Truck) e explorando o universo de Hogwarts Legacy.
+
 
 ### 🛠 Tecnologias e Ferramentas
 
